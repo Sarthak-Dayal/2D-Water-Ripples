@@ -28,6 +28,6 @@ You can open issues, commit code, and add to discussion in order to contribute t
   
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/Sarthak-Dayal/2D-Water-Ripples/blob/master/LICENSE)
 
   
